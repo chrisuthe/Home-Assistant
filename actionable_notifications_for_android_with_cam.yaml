@@ -113,7 +113,7 @@ blueprint:
       description: Actions (e.g. pushing a notification, TTS announcement, ...)
       selector:
         action: {}
-  source_url: https://gist.github.com/McDAlexander/56eb3f2e421e283460b3d641fd002ea8
+  source_url: https://raw.githubusercontent.com/chrisuthe/Home-Assistant/main/actionable_notifications_for_android_with_cam.yaml
 mode: restart
 max_exceeded: silent
 variables:
